@@ -2,4 +2,4 @@
 #+html: <a href="https://asciinema.org/a/vuN2NPXGj18wOY189LZ2p1AWL" target="_blank"><img src="https://asciinema.org/a/vuN2NPXGj18wOY189LZ2p1AWL.svg" /></a>
 
 * About
-To run this, you need `python3`, `bat`, `sed`, and `gcc`.
+To run this, you need =python3=, =bat=, =sed=, and =gcc=.

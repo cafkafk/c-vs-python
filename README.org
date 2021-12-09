@@ -1,1 +1,2 @@
 * C vs Python
+#+html: <a href="https://asciinema.org/a/vuN2NPXGj18wOY189LZ2p1AWL" target="_blank"><img src="https://asciinema.org/a/vuN2NPXGj18wOY189LZ2p1AWL.svg" /></a>
